@@ -9,3 +9,5 @@
 ## Frequency Words
 <img width="1066" height="801" alt="Image" src="https://github.com/user-attachments/assets/c170ca15-66d8-48ac-9c29-c9598a9838f4" />
 
+
+
